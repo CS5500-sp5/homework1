@@ -1,0 +1,4 @@
+Jan 03, 2020 11:25:03 AM cs5500.hw1.TestPerson testCompareTo
+INFO: Considering Kanye and Kim
+Jan 03, 2020 11:25:03 AM cs5500.hw1.TestPerson testCompareTo
+INFO: Done - passed.
